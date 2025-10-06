@@ -1,10 +1,8 @@
-# README
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Geetanjally</h1></summary>
   </ul>
 </div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -19,7 +17,7 @@
   <li>🌱 Exploring advanced topics like <strong>LSTM models, TensorFlow pipelines, and NLP techniques</strong>.</li>
   <li>💻 Tech Stack: <strong>Python · NumPy · Pandas · Matplotlib · Seaborn · TensorFlow · Keras · Scikit-learn</strong></li>
   <li>🧠 Special Interests: <strong>Tokenization, Stopword Removal, Model Training & Evaluation</strong></li>
-  <li>📫 How to reach me: <strong><a href="mailto:geetanjallyrani03@gmail.com">geetanjallyrani03@gmail.com</a></strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:geetanjallyrani22@gmail.com">geetanjallyrani22@gmail.com</a></strong></li>
 </ul>
 <!--Intro end-->
 
@@ -59,7 +57,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,git,github,vscode,figma,html,css,bootstrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,vscode&perline=10" />
   </a>
 </p>
 
@@ -76,7 +74,7 @@
   <a href="https://www.linkedin.com/in/geetanjally/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="mailto:geetanjallyrani03@gmail.com" target="blank">
+  <a href="mailto:geetanjallyrani22@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="gmail" height="50" width="50" />
   </a>
   <a href="https://github.com/Geetanjally" target="blank">
